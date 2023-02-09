@@ -1,2 +1,2 @@
 #!/bin/bash
-cjmod --refrence=olleh hello
+cjmod --reference=olleh hello
